@@ -1,0 +1,5 @@
+train: /path/to/train/images
+val: /path/to/val/images
+
+nc: 1  # Número de clases (en este caso, 1 para naranjas)
+names: ['orange']
